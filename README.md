@@ -2,6 +2,9 @@
 ## yorha-loading-screen-boot-plymouth
 este es un screen boot configurado para que inicie con la pantalla de carga de yorha nier automata al inicio del juego
 
+![e.g](./demo.gif)
+
+
 te dejo la ruta donde pegarla rapidamente
 
 ```bash
